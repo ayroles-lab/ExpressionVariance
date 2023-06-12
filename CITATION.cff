@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows:"
+
+title: "Characterizing the landscape of gene expression variance in humans"
+version: "4.0"
+
+authors:
+  - family-names: Wolf
+    given-names: Scott
+    affiliation: lsi
+    email: swwolf@princeton.edu
+    orcid: 0000-0003-4397-1395
+    equal-contribution: yes
+
+  - family-names: Melo
+    given-names: Diogo
+    affiliation:
+      - lsi
+      - eeb
+    email: damelo@princeton.edu
+    corresponding: yes
+    orcid: 0000-0002-7603-0092
+    equal-contribution: yes
+
+  - family-names: Garske
+    given-names: Kristina M.
+    affiliation: lsi
+    orcid: 0000-0002-7228-8125
+
+  - family-names: Pallares
+    given-names: Luisa F.
+    affiliation:
+      - lsi
+      - fml
+    orcid: 0000-0001-6547-1901
+
+  - family-names: Lea
+    given-names: Amanda J.
+    affiliation:
+      - lsi
+      - eeb
+      - van
+      - ciar
+    orcid: 0000-0002-8827-2750
+
+  - family-names: Ayroles
+    given-names: Julien F.
+    affiliation:
+      - lsi
+      - eeb
+    email: jayroles@princeton.edu
+    corresponding: yes
+    orcid: 0000-0001-8729-0511
+
+affiliations:
+  - name: Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ, USA
+    id: lsi
+
+  - name: Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA
+    id: eeb
+
+  - name: Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany
+    id: fml
+
+  - name: Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+    id: van
+
+  - name: Child and Brain Development, Canadian Institute for Advanced Research, Toronto, Canada
+    id: ciar
+
+repository:
+  - url: https://doi.org/10.5281/zenodo.8028650
+    doi: 10.5281/zenodo.8028650
